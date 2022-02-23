@@ -1,1 +1,5 @@
-a
+In this project we will try to predict if a person suffers from lung cancer or not according to his other medical information. 
+
+We used a dataset from Kaggle website.
+
+Link to the dataset in Kaggle: https://www.kaggle.com/mysarahmadbhat/lung-cancer
